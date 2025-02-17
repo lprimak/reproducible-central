@@ -94,8 +94,8 @@ outputs.6.0.checksums.sha512=2f975cea272952039642ac967a13ef11c3b7c133a8528dc6030
 
 outputs.6.1.groupId=de.unentscheidbar
 outputs.6.1.filename=migratedb-spring-boot-v3-autoconfig-1.4.1.jar
-outputs.6.1.length=39471
-outputs.6.1.checksums.sha512=08440f836ddc1b4cd91c0d907131444c5234a6a4281604cdde75bed6db6dae3e794c65debbec43fdbf5207a6af19e72e532e6cee92f1e54fa898142682c8fe8a
+outputs.6.1.length=39504
+outputs.6.1.checksums.sha512=ad0b54f642a2945f0d413a5e639358998fc33636cc4aa5601d0dde469b3c93bf3322abe278ee88ca022e4071f17d9d876a57299cd32c59bdb8252a77442345c6
 
 outputs.7.coordinates=de.unentscheidbar:migratedb-spring-boot-v3-starter
 
