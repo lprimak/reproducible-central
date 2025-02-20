@@ -28,8 +28,8 @@ outputs.0.checksums.sha512=166cdbf9ace6204b30f28d68d31a2b73d25320c4d1fa33e4d00f6
 
 outputs.1.groupId=io.wcm
 outputs.1.filename=io.wcm.handler.media-2.4.2.jar
-outputs.1.length=1379214
-outputs.1.checksums.sha512=d10bab55a30b38db22c78026132ff11460d3ab8f2ee596ba02f5a7ec45b5a44bb00b54f9357fbbbae1cf2a48c8691666cdbd65dfd72e9eae1dc9b8a5c24c2b92
+outputs.1.length=1379269
+outputs.1.checksums.sha512=ef69d13a096eecfe0c8b9c662b8829482ed4a24e6d89f0ce1974648ebb3a7825b858a05acfc092ee8b077f9f385bc26a85cf4ab88e2e5b5ca93e7d9041061b02
 
 outputs.2.groupId=io.wcm
 outputs.2.filename=io.wcm.handler.media-2.4.2-sources.jar
@@ -38,10 +38,10 @@ outputs.2.checksums.sha512=87a0f5855cbee5871f8cfa7c47866647d13eff1635cad083bd4a7
 
 outputs.3.groupId=io.wcm
 outputs.3.filename=io.wcm.handler.media-2.4.2-content.zip
-outputs.3.length=126178
-outputs.3.checksums.sha512=ad800c24d56e51443a4d1829ab88d773e7cf5c5ffc619849ca046aa6d3fec6612396c0196e7509f1e925fcb70c293dc4a3b71aa14c47f3071c237651c3a56750
+outputs.3.length=126179
+outputs.3.checksums.sha512=61af4222b1f0ebef019d8b90bae9f44bbdee36cd8bfdf56acbff30b505117d7f519cec360ae4ce6eae82678dfd2059eeb2f20694c076003402c536de670794de
 
 outputs.4.groupId=io.wcm
 outputs.4.filename=io.wcm.handler.media-2.4.2-bundle.jar
-outputs.4.length=1339912
-outputs.4.checksums.sha512=5040d0eb263de574655faaf1a3f54c71fdc373a6419c4c11b2170ecb46eac3a4a96ade162cc6525946a7e40d09c597f643952fff8e1424f3eb46af13661e7e20
+outputs.4.length=1339967
+outputs.4.checksums.sha512=c1e09045d928e36f26b468ca4c8305f8177ec13b3f6f7470858693b75a7196ca94ea4e314fda37e4c3f6d031e07e6cebf7f9432e0a051ef0e98334bbbddd613d
