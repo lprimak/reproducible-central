@@ -1,4 +1,4 @@
-groupId=net.revelc.code
+groupId=net.revelc.code.formatter
 artifactId=formatter-maven-plugin
 display=${groupId}:${artifactId}
 version=2.25.0
@@ -10,7 +10,7 @@ tool=mvn
 jdk=17
 newline=lf
 
-command="mvn -Papache-release clean package -DskipTests -Dmaven.javadoc.skip -Dgpg.skip"
+command="mvn -Prevelc-release clean package -DskipTests -Dmaven.javadoc.skip -Dgpg.skip"
 buildinfo=target/${artifactId}-${version}.buildinfo
 
 #diffoscope=${artifactId}-${version}.diffoscope
